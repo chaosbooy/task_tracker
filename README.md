@@ -2,8 +2,8 @@
 # task_tracker
 
 CLI app to task your tasks.
-Made for the Go backend roadmap on roadmap.sh
-
+Made as part of the Go backend roadmap on roadmap.sh
+task: https://roadmap.sh/projects/task-tracker
 
 
 
