@@ -68,7 +68,7 @@ var TodoList []task = make([]task, 0)
 
 // main programm function
 func main() {
-	const NAME = "to-do_list.txt"
+	const NAME = "to-do_list.json"
 
 	var err error
 	TodoList, err = loadData(NAME)

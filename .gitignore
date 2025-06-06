@@ -19,3 +19,8 @@
 
 # Go workspace file
 go.work
+
+
+#Project specific files
+to-do_list.json
+task_tracker
